@@ -1,0 +1,6 @@
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.TestConsole\bin\Debug\GiftAidCalculator.TestConsole.exe.config
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.TestConsole\bin\Debug\GiftAidCalculator.TestConsole.exe
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.TestConsole\bin\Debug\GiftAidCalculator.TestConsole.pdb
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.TestConsole\obj\Debug\GiftAidCalculator.TestConsole.exe
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.TestConsole\obj\Debug\GiftAidCalculator.TestConsole.pdb
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.TestConsole\obj\Debug\GiftAidCalculator.TestConsole.csprojResolveAssemblyReference.cache

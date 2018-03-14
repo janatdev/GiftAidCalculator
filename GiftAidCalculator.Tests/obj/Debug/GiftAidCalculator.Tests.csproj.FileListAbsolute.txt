@@ -1,0 +1,11 @@
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.Tests\bin\Debug\GiftAidCalculator.Tests.dll
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.Tests\bin\Debug\GiftAidCalculator.Tests.pdb
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.Tests\bin\Debug\Moq.dll
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.Tests\bin\Debug\Moq.xml
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.Tests\bin\Debug\nunit.framework.xml
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.Tests\obj\Debug\GiftAidCalculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.Tests\obj\Debug\GiftAidCalculator.Tests.dll
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.Tests\obj\Debug\GiftAidCalculator.Tests.pdb
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.Tests\bin\Debug\GiftAidCalculator.TestConsole.exe
+C:\Users\irfanj\Downloads\Recruitment-Test-master\Recruitment-Test-master\GiftAidCalculator.Tests\bin\Debug\GiftAidCalculator.TestConsole.pdb
